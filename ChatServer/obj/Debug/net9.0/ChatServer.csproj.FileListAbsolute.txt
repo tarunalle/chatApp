@@ -1,0 +1,14 @@
+/Users/tarunalle/Desktop/chatApp/ChatServer/bin/Debug/net9.0/ChatServer
+/Users/tarunalle/Desktop/chatApp/ChatServer/bin/Debug/net9.0/ChatServer.deps.json
+/Users/tarunalle/Desktop/chatApp/ChatServer/bin/Debug/net9.0/ChatServer.runtimeconfig.json
+/Users/tarunalle/Desktop/chatApp/ChatServer/bin/Debug/net9.0/ChatServer.dll
+/Users/tarunalle/Desktop/chatApp/ChatServer/bin/Debug/net9.0/ChatServer.pdb
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.AssemblyInfoInputs.cache
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.AssemblyInfo.cs
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.csproj.CoreCompileInputs.cache
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.dll
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/refint/ChatServer.dll
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.pdb
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.genruntimeconfig.cache
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ref/ChatServer.dll

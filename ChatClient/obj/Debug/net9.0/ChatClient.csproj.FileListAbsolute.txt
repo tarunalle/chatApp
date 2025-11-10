@@ -1,0 +1,14 @@
+/Users/tarunalle/Desktop/chatApp/ChatClient/bin/Debug/net9.0/ChatClient
+/Users/tarunalle/Desktop/chatApp/ChatClient/bin/Debug/net9.0/ChatClient.deps.json
+/Users/tarunalle/Desktop/chatApp/ChatClient/bin/Debug/net9.0/ChatClient.runtimeconfig.json
+/Users/tarunalle/Desktop/chatApp/ChatClient/bin/Debug/net9.0/ChatClient.dll
+/Users/tarunalle/Desktop/chatApp/ChatClient/bin/Debug/net9.0/ChatClient.pdb
+/Users/tarunalle/Desktop/chatApp/ChatClient/obj/Debug/net9.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarunalle/Desktop/chatApp/ChatClient/obj/Debug/net9.0/ChatClient.AssemblyInfoInputs.cache
+/Users/tarunalle/Desktop/chatApp/ChatClient/obj/Debug/net9.0/ChatClient.AssemblyInfo.cs
+/Users/tarunalle/Desktop/chatApp/ChatClient/obj/Debug/net9.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/tarunalle/Desktop/chatApp/ChatClient/obj/Debug/net9.0/ChatClient.dll
+/Users/tarunalle/Desktop/chatApp/ChatClient/obj/Debug/net9.0/refint/ChatClient.dll
+/Users/tarunalle/Desktop/chatApp/ChatClient/obj/Debug/net9.0/ChatClient.pdb
+/Users/tarunalle/Desktop/chatApp/ChatClient/obj/Debug/net9.0/ChatClient.genruntimeconfig.cache
+/Users/tarunalle/Desktop/chatApp/ChatClient/obj/Debug/net9.0/ref/ChatClient.dll
