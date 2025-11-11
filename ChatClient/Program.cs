@@ -18,7 +18,28 @@ class Program
         var loginPacket = new { type = "LOGIN_REQ", username, password };
         await Send(stream, loginPacket);
 
+        byte[] buffer = new byte[4096];
+        int bytes = await stream.ReadAsync(buffer);
+        string responseJson = Encoding.UTF8.GetString(buffer, 0, bytes);
+
+        var response = JsonSerializer.Deserialize<Dictionary<string, string>>(responseJson);
+
+        if (response != null && response["type"] == "LOGIN_RESP")
+        {
+            if (response["status"] == "ok")
+            {
+                Console.WriteLine(" Login successful");
+            }
+            else
+            {
+                Console.WriteLine($" Login failed: {response["reason"]}");
+                client.Close();
+                return;
+            }
+        }
+
         _ = Task.Run(() => ListenForMessages(stream));
+
 
         while (true)
         {

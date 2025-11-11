@@ -61,6 +61,7 @@ class Program
                         else
                         {
                             await Send(stream, new { type = "LOGIN_RESP", status = "err", reason = "invalid credentials" });
+                            Console.WriteLine("invalid username or password");
                             client.Close();
                             return;
                         }

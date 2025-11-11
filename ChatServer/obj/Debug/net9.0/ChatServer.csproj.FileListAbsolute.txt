@@ -12,3 +12,4 @@
 /Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.pdb
 /Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.genruntimeconfig.cache
 /Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ref/ChatServer.dll
+/Users/tarunalle/Desktop/chatApp/ChatServer/obj/Debug/net9.0/ChatServer.sourcelink.json
